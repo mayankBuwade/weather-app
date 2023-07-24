@@ -4,9 +4,9 @@ To run this application properly, you need to set up the following environment v
 
 1. `VITE_WEATHER_KEY`: This is the API key required for accessing weather data.
 
-2. `VITE_CITY_SEARCH_KEY`: This is the API key used for city search functionality.
+2. `VITE_CITY_SEARCH_KEY`: This is the API key used for city search functionality (https://rapidapi.com/wirefreethought/api/geodb-cities).
 
-3. `VITE_RAPID_HOST`: This is the host URL for a specific API service.
+3. `VITE_RAPID_HOST`: This is the host URL for a rapid API service.
 
 Here are the steps to set up your `.env` file:
 
